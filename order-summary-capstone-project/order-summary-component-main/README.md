@@ -110,7 +110,7 @@ This project is a summary card challenge built by html and css only.
 
 # The Proccess
 VS code edditor was used in the building of this project which includes the use of Semantic html code and css.
-In this project We learned How to build a layout using html tags and how to design html code using css by creating a style sheet externally and linking to the html document. With the aid of a few documentation like w3schoold  we were able to outline a few of  our codes correctly.
+In this project We learned How to build a layout using html tags and how to design html code using css by creating a style sheet externally and linking to the html document. With the aid of a few documentation like w3school, we were able to outline a few of  our codes correctly.
 
 # Created By
  This project is created by Sidehustle SH-IT group39.
