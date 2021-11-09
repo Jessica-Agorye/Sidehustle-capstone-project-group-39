@@ -99,7 +99,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 This is a Order summary card challenge on Frontend Mentor,the challenge is to help us improve our coding skills.
 
- ![Screenshot](images/Screenshot(3).png )
+ ![Screenshot](images/C:\Users\LENOVO\Desktop\Sidehustle-capstone-project-group-39-1\order-summary-capstone-project\order-summary-component-main\images )
 
 #  Table of Content 
  1. Overview
