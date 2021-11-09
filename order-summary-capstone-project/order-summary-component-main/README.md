@@ -89,3 +89,31 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+
+
+
+
+
+# Sidehustle-capstone-project-group-39
+
+This is a Order summary card challenge on Frontend Mentor,the challenge is to help us improve our coding skills.
+
+#  Table of Content 
+ 1. Overview
+ 2. Process
+ 3. Created By
+ 4. Acknowledgments
+
+# Overview
+This project is a summary card challenge built by html and css only.
+
+# The Proccess
+VS code edditor was used in the building of this project which includes the use of Semantic html code and css.
+In this project We learned How to build a layout using html tags and how to design html code using css by creating a style sheet externally and linking to the html document. With the aid of a few documentation like w3schoold  we were able to outline a few of  our codes correctly.
+
+# Created By
+ This project is created by Sidehustle SH-IT group39.
+
+ # Acknowledgment
+ A big thank you to every group member who put in their work to make this project succesful most especially to our TEAM LEAD. Last but not least to our Mentors, we say thank you for your time and your mentorship.
